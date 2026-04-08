@@ -1,1 +1,1 @@
-# Churn Customer Prediction
+# Customer Churn Prediction
